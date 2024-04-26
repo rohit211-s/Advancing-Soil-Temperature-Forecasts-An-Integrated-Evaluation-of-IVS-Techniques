@@ -13,7 +13,7 @@ Figure: schematic flow chart of MLP-AdaBelief.
 <img width="468" alt="image" src="https://github.com/rohit211-s/Advancing-Soil-Temperature-Forecasts-An-Integrated-Evaluation-of-IVS-Techniques/assets/67229152/88cddba4-fe94-4fe0-a03c-b5bba2a53720">
 
 
-Figure: schematic flow chart of MLP-Ranger AdaBelief.
+Figure: schematic flow chart of MLP-Ranger-AdaBelief.
 
 
 <img width="468" alt="image" src="https://github.com/rohit211-s/Advancing-Soil-Temperature-Forecasts-An-Integrated-Evaluation-of-IVS-Techniques/assets/67229152/938e56c8-24d0-4728-b1f8-bd9e901cf601">
